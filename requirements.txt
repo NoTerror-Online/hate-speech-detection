@@ -1,0 +1,5 @@
+hatesonar
+html2text
+flask
+aiohttp
+asyncio
